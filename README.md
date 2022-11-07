@@ -7,14 +7,8 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshulforyou&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-![Anshul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulforyou&layout=compact&show_icons=true)
+![Anshul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyansh19077&layout=compact&show_icons=true)
 
-
-<div style="display:flex; align-items:center; justify-content: center;">
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</div>
 
 - 🔭 I’m currently working on TLE Eliminators
 - 🌱 I’m currently learning Randomized Algorithms
