@@ -5,7 +5,7 @@
 -->
 ![](https://komarev.com/ghpvc/?username=Priyansh19077&label=PROFILE+VIEWS&color=blue&style=plastic)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyansh19077u&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyansh19077&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ![Anshul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyansh19077&layout=compact&show_icons=true)
 
