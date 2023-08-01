@@ -10,8 +10,8 @@
 ![Anshul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyansh19077&layout=compact&show_icons=true)
 
 
-- 🔭 I’m currently working on TLE Eliminators
-- 🌱 I’m currently learning Randomized Algorithms
+- 🔭 I’m currently working at Zomato
+- 🌱 I’m currently Go and Backend
 - 💬 Ask me about Algorithms, Data Structures, and Competitive Programming
 - 😄 Pronouns: Priyansh31dec
 
