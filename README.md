@@ -11,7 +11,7 @@
 
 
 - 🔭 I’m currently working at Zomato
-- 🌱 I’m currently Go and Backend
+- 🌱 I’m currently learning Go and Backend
 - 💬 Ask me about Algorithms, Data Structures, and Competitive Programming
 - 😄 Pronouns: Priyansh31dec
 
